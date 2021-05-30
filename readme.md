@@ -1,6 +1,6 @@
 # Graded Assignment 1: Sudoku
 
-### Choice of Algorithm¶
+### Choice of Algorithm
 
 Inspired by the ability of constraint satisfaction to make a seemingly intractable problem, tractable and its impressive performance on the Eight Queens puzzle, I have chosen to model the sudoku puzzle as a constraint satisfaction problem.
 
