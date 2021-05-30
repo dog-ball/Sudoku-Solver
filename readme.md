@@ -1,4 +1,4 @@
-# Graded Assignment 1: Sudoku
+# Sudoku Solver
 
 ### Choice of Algorithm
 
