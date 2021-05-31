@@ -14,7 +14,7 @@ Alongside this, by tracking and constantly reducing the domains of positions acr
 
 ### Data structures 
 
-I have chosen to use a dictionary to represent the Sudoku using a dictionary with the positions of the sudoku (e.g., (0, 0), ... , (8,8)) stored as keys and the possible values (e.g., '123456789') stored as corresponding values. I made use of the fact that dictionaries evaluate to True to track whether a search had failed or a problem was unsolvable. The 'truthy' [4] quality of the dictionary data structure allowed me to keep track of whenever a part of the algorithm had failed by setting returning false and evaluating the dictionaries Boolean value. If True the algorithm was working, if False it had failed. Next time, I could create a more elegant representation of the sudoku using an array instead of dictionary while still maintaining the beneficial functionality.
+I have chosen to use a dictionary to represent the Sudoku with the positions of the sudoku (e.g., (0, 0), ... , (8,8)) stored as keys and the possible values (e.g., '123456789') stored as corresponding values. I made use of the fact that dictionaries evaluate to True to track whether a search had failed or a problem was unsolvable. The 'truthy' [4] quality of the dictionary data structure allowed me to keep track of whenever a part of the algorithm had failed by setting returning false and evaluating the dictionaries Boolean value. If True the algorithm was working, if False it had failed. Next time, I could create a more elegant representation of the sudoku using an array instead of dictionary while still maintaining the beneficial functionality.
 
 ### Further Research
 
