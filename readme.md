@@ -2,7 +2,7 @@
 
 ### Choice of Algorithm
 
-Inspired by the ability of constraint satisfaction to make a seemingly intractable problem, tractable and its impressive performance on the Eight Queens puzzle, I have chosen to model the sudoku puzzle as a constraint satisfaction problem.
+Inspired by the ability of constraint satisfaction to make a seemingly intractable problem tractable, I have chosen to model this sudoku puzzle solver using the constraint satisfaction algorithm.
 
 ### Implementation
 
